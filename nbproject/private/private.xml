@@ -3,10 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/gaiidenn/workspace/angular-quickstart/app/hero.ts</file>
-            <file>file:/home/gaiidenn/workspace/angular-quickstart/app/main.ts</file>
-            <file>file:/home/gaiidenn/workspace/angular-quickstart/app/hero.js</file>
-            <file>file:/home/gaiidenn/workspace/angular-quickstart/app/app.component.ts</file>
+            <file>file:/home/jerome/NetBeansProjects/angular2-tour-of-heroes/app/heroes.component.ts</file>
+            <file>file:/home/jerome/NetBeansProjects/angular2-tour-of-heroes/app/hero.service.ts</file>
+            <file>file:/home/jerome/NetBeansProjects/angular2-tour-of-heroes/app/app.component.ts</file>
+            <file>file:/home/jerome/NetBeansProjects/angular2-tour-of-heroes/app/hero-detail.component.ts</file>
+            <file>file:/home/jerome/NetBeansProjects/angular2-tour-of-heroes/app/dashboard.component.html</file>
+            <file>file:/home/jerome/NetBeansProjects/angular2-tour-of-heroes/index.html</file>
+            <file>file:/home/jerome/NetBeansProjects/angular2-tour-of-heroes/app/dashboard.component.ts</file>
+            <file>file:/home/jerome/NetBeansProjects/angular2-tour-of-heroes/app/hero-detail.component.html</file>
         </group>
     </open-files>
 </project-private>
